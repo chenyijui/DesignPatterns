@@ -1,4 +1,4 @@
-package com.ray.Design.Patterns;
+package com.ray.design.patterns;
 
 import com.ray.design.patterns.facade.Facade1;
 import org.junit.Test;

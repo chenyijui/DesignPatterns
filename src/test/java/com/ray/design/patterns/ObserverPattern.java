@@ -1,4 +1,4 @@
-package com.ray.Design.Patterns;
+package com.ray.design.patterns;
 
 import com.ray.design.patterns.observer.*;
 import org.junit.Test;

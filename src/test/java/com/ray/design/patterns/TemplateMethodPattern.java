@@ -1,4 +1,4 @@
-package com.ray.Design.Patterns;
+package com.ray.design.patterns;
 
 import com.ray.design.patterns.templatemethod.SoftwareManager;
 import org.junit.Test;

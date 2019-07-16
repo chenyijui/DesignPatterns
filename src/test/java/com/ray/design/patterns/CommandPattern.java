@@ -1,4 +1,4 @@
-package com.ray.Design.Patterns;
+package com.ray.design.patterns;
 
 import com.ray.design.patterns.command.sample1.*;
 import com.ray.design.patterns.command.sample2.*;
